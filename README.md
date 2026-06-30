@@ -7,11 +7,14 @@ Il codice necessario per eseguire la dashboard si trova principalmente nella car
 ## Prima installazione
 
 Chi non ha ancora scaricato e configurato il progetto deve seguire:
-
+su GitHub:
 ```text
 docs/PRIMA_INSTALLAZIONE_DASHBOARD_SIM.md
 ```
-(All_5b_PRIMA_INSTALLAZIONE_DASHBOARD_SIM.pdf)
+Allegato rapporto finale:
+```text
+All_5b_PRIMA_INSTALLAZIONE_DASHBOARD_SIM.pdf
+```
 
 La guida spiega come installare R, RStudio e Git, clonare la repository pubblica, installare i pacchetti R e avviare la dashboard per la prima volta.
 
@@ -19,7 +22,7 @@ La guida spiega come installare R, RStudio e Git, clonare la repository pubblica
 
 Questi passaggi valgono quando la repository è già presente e configurata sul computer.
 
-1. Aprire `Monitoraggio-PNRR.Rproj` con RStudio.
+1. Aprire `Monitoraggio.Rproj` con RStudio.
 2. Aggiornare la copia locale con **Git → Pull**.
 3. Nella **Console R** eseguire:
 
@@ -53,8 +56,8 @@ La guida tecnica si trova in:
 ## Struttura essenziale
 
 ```text
-Monitoraggio-PNRR/
-├── Monitoraggio-PNRR.Rproj
+Sistema-Informativo-di-Monitoraggio/
+├── Monitoraggio.Rproj
 ├── README.md
 ├── DATA_SOURCES.md
 ├── docs/
