@@ -7,6 +7,7 @@ Il codice necessario per eseguire la dashboard si trova principalmente nella car
 ## Prima installazione
 
 Chi non ha ancora scaricato e configurato il progetto deve seguire:
+
 su GitHub:
 ```text
 docs/PRIMA_INSTALLAZIONE_DASHBOARD_SIM.md
