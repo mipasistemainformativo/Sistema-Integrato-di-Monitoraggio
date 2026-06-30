@@ -1,4 +1,4 @@
-# Monitoraggio-PNRR
+# Sistema Integrato di Monitoraggio
 
 Repository pubblica del progetto **Sistema Integrato di Monitoraggio PA (SIM)**.
 
