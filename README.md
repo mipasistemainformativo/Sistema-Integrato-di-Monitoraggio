@@ -2,7 +2,7 @@
 
 Repository pubblica del progetto **Sistema Informativo di Monitoraggio PA (SIM)**.
 
-Il codice necessario per eseguire la dashboard si trova principalmente nella cartella `03_Scripts/`. [GitHub](https://github.com/mipasistemainformativo/Sistema-Informativo-di-Monitoraggio/tree/main)
+Il codice necessario per eseguire la dashboard si trova principalmente nella cartella `03_Scripts/`, su [GitHub](https://github.com/mipasistemainformativo/Sistema-Informativo-di-Monitoraggio/tree/main)
 
 ## Prima installazione
 
@@ -11,6 +11,7 @@ Chi non ha ancora scaricato e configurato il progetto deve seguire:
 ```text
 docs/PRIMA_INSTALLAZIONE_DASHBOARD_SIM.md
 ```
+(All_5b_PRIMA_INSTALLAZIONE_DASHBOARD_SIM.pdf)
 
 La guida spiega come installare R, RStudio e Git, clonare la repository pubblica, installare i pacchetti R e avviare la dashboard per la prima volta.
 
